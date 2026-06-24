@@ -1,0 +1,1 @@
+import{y as a,o as t,i as s,X as d}from"./auth-BS9nwH-Q.js";var n=d("<div>");function i(e){return(()=>{var r=n();return a(r,()=>e.children),t(()=>s(r,["bg-white border border-gray-200 rounded-xl shadow-sm",e.class??""].join(" "))),r})()}export{i as C};

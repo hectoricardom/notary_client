@@ -1,1 +1,0 @@
-import{w as a,n as t,h as s,V as n}from"./auth-DTPlqukd.js";var d=n("<div>");function i(e){return(()=>{var r=d();return a(r,()=>e.children),t(()=>s(r,["bg-white border border-gray-200 rounded-xl shadow-sm",e.class??""].join(" "))),r})()}export{i as C};

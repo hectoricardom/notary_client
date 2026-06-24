@@ -1,228 +1,251 @@
 {
-  "_Badge-Bz6YGSkx.js": {
-    "file": "assets/Badge-Bz6YGSkx.js",
+  "_Badge-CR5MJ7cx.js": {
+    "file": "assets/Badge-CR5MJ7cx.js",
     "name": "Badge",
     "imports": [
-      "_auth-C-gLdpYB.js"
+      "_auth-DTPlqukd.js"
     ]
   },
-  "_Button-vFBhENxP.js": {
-    "file": "assets/Button-vFBhENxP.js",
+  "_Button-Bds4GGmc.js": {
+    "file": "assets/Button-Bds4GGmc.js",
     "name": "Button",
     "imports": [
-      "_auth-C-gLdpYB.js"
+      "_auth-DTPlqukd.js"
     ]
   },
-  "_Card-D3Wp1ead.js": {
-    "file": "assets/Card-D3Wp1ead.js",
+  "_Card-sYolt0gH.js": {
+    "file": "assets/Card-sYolt0gH.js",
     "name": "Card",
     "imports": [
-      "_auth-C-gLdpYB.js"
+      "_auth-DTPlqukd.js"
     ]
   },
-  "_CourtJudgePickers-Ubv-bGx3.js": {
-    "file": "assets/CourtJudgePickers-Ubv-bGx3.js",
+  "_CourtJudgePickers-uVYyGoRN.js": {
+    "file": "assets/CourtJudgePickers-uVYyGoRN.js",
     "name": "CourtJudgePickers",
     "imports": [
-      "_auth-C-gLdpYB.js",
-      "_PageHeader-CKjHrkVY.js",
-      "_Button-vFBhENxP.js"
+      "_auth-DTPlqukd.js",
+      "_PageHeader-D8KJvBsb.js",
+      "_Button-Bds4GGmc.js"
     ]
   },
-  "_CustomerForm-FsvFm1w8.js": {
-    "file": "assets/CustomerForm-FsvFm1w8.js",
+  "_CustomerForm-DZpaPMJL.js": {
+    "file": "assets/CustomerForm-DZpaPMJL.js",
     "name": "CustomerForm",
     "imports": [
-      "_auth-C-gLdpYB.js",
-      "_Button-vFBhENxP.js",
-      "_Textarea-x8y_EA-x.js",
-      "_PageHeader-CKjHrkVY.js"
+      "_auth-DTPlqukd.js",
+      "_Button-Bds4GGmc.js",
+      "_Textarea-C9VoZite.js",
+      "_PageHeader-D8KJvBsb.js"
     ]
   },
-  "_EmptyState-CxbC4rM4.js": {
-    "file": "assets/EmptyState-CxbC4rM4.js",
+  "_EmptyState-oFESh8tS.js": {
+    "file": "assets/EmptyState-oFESh8tS.js",
     "name": "EmptyState",
     "imports": [
-      "_auth-C-gLdpYB.js"
+      "_auth-DTPlqukd.js"
     ]
   },
-  "_PageHeader-CKjHrkVY.js": {
-    "file": "assets/PageHeader-CKjHrkVY.js",
+  "_PageHeader-D8KJvBsb.js": {
+    "file": "assets/PageHeader-D8KJvBsb.js",
     "name": "PageHeader",
     "imports": [
-      "_auth-C-gLdpYB.js"
+      "_auth-DTPlqukd.js"
     ]
   },
-  "_Spinner-BU2sTrbk.js": {
-    "file": "assets/Spinner-BU2sTrbk.js",
+  "_Spinner-BHcTEjdV.js": {
+    "file": "assets/Spinner-BHcTEjdV.js",
     "name": "Spinner",
     "imports": [
-      "_auth-C-gLdpYB.js"
+      "_auth-DTPlqukd.js"
     ]
   },
-  "_Textarea-x8y_EA-x.js": {
-    "file": "assets/Textarea-x8y_EA-x.js",
+  "_Textarea-C9VoZite.js": {
+    "file": "assets/Textarea-C9VoZite.js",
     "name": "Textarea",
     "imports": [
-      "_auth-C-gLdpYB.js"
+      "_auth-DTPlqukd.js"
     ]
   },
-  "_auth-C-gLdpYB.js": {
-    "file": "assets/auth-C-gLdpYB.js",
+  "_auth-DTPlqukd.js": {
+    "file": "assets/auth-DTPlqukd.js",
     "name": "auth"
   },
-  "_components-bMFgbsTK.js": {
-    "file": "assets/components-bMFgbsTK.js",
+  "_components-BacPrORy.js": {
+    "file": "assets/components-BacPrORy.js",
     "name": "components",
     "imports": [
-      "_auth-C-gLdpYB.js",
-      "_routing-B-h4oALE.js"
+      "_auth-DTPlqukd.js",
+      "_routing-HTn9vvAj.js"
     ]
   },
   "_format-NFPj965s.js": {
     "file": "assets/format-NFPj965s.js",
     "name": "format"
   },
-  "_routing-B-h4oALE.js": {
-    "file": "assets/routing-B-h4oALE.js",
+  "_routing-HTn9vvAj.js": {
+    "file": "assets/routing-HTn9vvAj.js",
     "name": "routing",
     "imports": [
-      "_auth-C-gLdpYB.js"
+      "_auth-DTPlqukd.js"
+    ]
+  },
+  "_sso-Bh9l6MvX.js": {
+    "file": "assets/sso-Bh9l6MvX.js",
+    "name": "sso",
+    "imports": [
+      "_auth-DTPlqukd.js"
+    ]
+  },
+  "src/routes/callback.tsx?pick=default&pick=$css": {
+    "file": "assets/callback-BdVjpXod.js",
+    "name": "callback",
+    "src": "src/routes/callback.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_auth-DTPlqukd.js",
+      "_sso-Bh9l6MvX.js",
+      "_Card-sYolt0gH.js",
+      "_Spinner-BHcTEjdV.js",
+      "_routing-HTn9vvAj.js"
     ]
   },
   "src/routes/courts.tsx?pick=default&pick=$css": {
-    "file": "assets/courts-BS4K5KmG.js",
+    "file": "assets/courts-DL0P1yss.js",
     "name": "courts",
     "src": "src/routes/courts.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_auth-C-gLdpYB.js",
-      "_PageHeader-CKjHrkVY.js",
-      "_Button-vFBhENxP.js",
-      "_Card-D3Wp1ead.js",
-      "_Badge-Bz6YGSkx.js",
-      "_EmptyState-CxbC4rM4.js",
-      "_Textarea-x8y_EA-x.js",
-      "_Spinner-BU2sTrbk.js"
+      "_auth-DTPlqukd.js",
+      "_PageHeader-D8KJvBsb.js",
+      "_Button-Bds4GGmc.js",
+      "_Card-sYolt0gH.js",
+      "_Badge-CR5MJ7cx.js",
+      "_EmptyState-oFESh8tS.js",
+      "_Textarea-C9VoZite.js",
+      "_Spinner-BHcTEjdV.js"
     ]
   },
   "src/routes/customers/[id].tsx?pick=default&pick=$css": {
-    "file": "assets/_id_-CNARv1Au.js",
+    "file": "assets/_id_-CAk6f4AH.js",
     "name": "_id_",
     "src": "src/routes/customers/[id].tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_auth-C-gLdpYB.js",
-      "_PageHeader-CKjHrkVY.js",
+      "_auth-DTPlqukd.js",
+      "_PageHeader-D8KJvBsb.js",
       "_format-NFPj965s.js",
-      "_Button-vFBhENxP.js",
-      "_Badge-Bz6YGSkx.js",
-      "_Spinner-BU2sTrbk.js",
-      "_CustomerForm-FsvFm1w8.js",
-      "_Card-D3Wp1ead.js",
-      "_Textarea-x8y_EA-x.js",
-      "_EmptyState-CxbC4rM4.js",
-      "_CourtJudgePickers-Ubv-bGx3.js",
-      "_routing-B-h4oALE.js"
+      "_Button-Bds4GGmc.js",
+      "_Badge-CR5MJ7cx.js",
+      "_Spinner-BHcTEjdV.js",
+      "_CustomerForm-DZpaPMJL.js",
+      "_Card-sYolt0gH.js",
+      "_Textarea-C9VoZite.js",
+      "_EmptyState-oFESh8tS.js",
+      "_CourtJudgePickers-uVYyGoRN.js",
+      "_routing-HTn9vvAj.js"
     ]
   },
   "src/routes/customers/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-CpbCkbMS.js",
+    "file": "assets/index-BXylbp61.js",
     "name": "index",
     "src": "src/routes/customers/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_auth-C-gLdpYB.js",
-      "_PageHeader-CKjHrkVY.js",
+      "_auth-DTPlqukd.js",
+      "_PageHeader-D8KJvBsb.js",
       "_format-NFPj965s.js",
-      "_Card-D3Wp1ead.js",
-      "_Button-vFBhENxP.js",
-      "_Badge-Bz6YGSkx.js",
-      "_EmptyState-CxbC4rM4.js",
-      "_Spinner-BU2sTrbk.js",
-      "_components-bMFgbsTK.js",
-      "_routing-B-h4oALE.js"
+      "_Card-sYolt0gH.js",
+      "_Button-Bds4GGmc.js",
+      "_Badge-CR5MJ7cx.js",
+      "_EmptyState-oFESh8tS.js",
+      "_Spinner-BHcTEjdV.js",
+      "_components-BacPrORy.js",
+      "_routing-HTn9vvAj.js"
     ]
   },
   "src/routes/customers/new.tsx?pick=default&pick=$css": {
-    "file": "assets/new-CiUL91cE.js",
+    "file": "assets/new-6rhYtmlO.js",
     "name": "new",
     "src": "src/routes/customers/new.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_PageHeader-CKjHrkVY.js",
-      "_Card-D3Wp1ead.js",
-      "_CustomerForm-FsvFm1w8.js",
-      "_routing-B-h4oALE.js",
-      "_auth-C-gLdpYB.js",
-      "_Button-vFBhENxP.js",
-      "_Textarea-x8y_EA-x.js"
+      "_PageHeader-D8KJvBsb.js",
+      "_Card-sYolt0gH.js",
+      "_CustomerForm-DZpaPMJL.js",
+      "_routing-HTn9vvAj.js",
+      "_auth-DTPlqukd.js",
+      "_Button-Bds4GGmc.js",
+      "_Textarea-C9VoZite.js"
     ]
   },
   "src/routes/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-Actl6wWu.js",
+    "file": "assets/index-CXcWG7Ai.js",
     "name": "index",
     "src": "src/routes/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_auth-C-gLdpYB.js",
-      "_PageHeader-CKjHrkVY.js",
+      "_auth-DTPlqukd.js",
+      "_PageHeader-D8KJvBsb.js",
       "_format-NFPj965s.js",
-      "_Card-D3Wp1ead.js",
-      "_Badge-Bz6YGSkx.js",
-      "_Spinner-BU2sTrbk.js",
-      "_components-bMFgbsTK.js",
-      "_routing-B-h4oALE.js"
+      "_Card-sYolt0gH.js",
+      "_Badge-CR5MJ7cx.js",
+      "_Spinner-BHcTEjdV.js",
+      "_components-BacPrORy.js",
+      "_routing-HTn9vvAj.js"
     ]
   },
   "src/routes/judges.tsx?pick=default&pick=$css": {
-    "file": "assets/judges-BcjCFmOf.js",
+    "file": "assets/judges-B0FlcTe7.js",
     "name": "judges",
     "src": "src/routes/judges.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_auth-C-gLdpYB.js",
-      "_PageHeader-CKjHrkVY.js",
-      "_CourtJudgePickers-Ubv-bGx3.js",
-      "_Card-D3Wp1ead.js",
-      "_Badge-Bz6YGSkx.js",
-      "_Button-vFBhENxP.js",
-      "_EmptyState-CxbC4rM4.js",
-      "_Textarea-x8y_EA-x.js",
-      "_Spinner-BU2sTrbk.js"
+      "_auth-DTPlqukd.js",
+      "_PageHeader-D8KJvBsb.js",
+      "_CourtJudgePickers-uVYyGoRN.js",
+      "_Card-sYolt0gH.js",
+      "_Badge-CR5MJ7cx.js",
+      "_Button-Bds4GGmc.js",
+      "_EmptyState-oFESh8tS.js",
+      "_Textarea-C9VoZite.js",
+      "_Spinner-BHcTEjdV.js"
     ]
   },
   "src/routes/login.tsx?pick=default&pick=$css": {
-    "file": "assets/login-Dm_qKald.js",
+    "file": "assets/login-JG7Nccxr.js",
     "name": "login",
     "src": "src/routes/login.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_auth-C-gLdpYB.js",
-      "_Card-D3Wp1ead.js",
-      "_Spinner-BU2sTrbk.js",
-      "_routing-B-h4oALE.js"
+      "_auth-DTPlqukd.js",
+      "_sso-Bh9l6MvX.js",
+      "_Card-sYolt0gH.js",
+      "_Spinner-BHcTEjdV.js",
+      "_routing-HTn9vvAj.js"
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-DcTsYwja.js",
+    "file": "assets/client-B7qeGzLO.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
     "imports": [
-      "_auth-C-gLdpYB.js",
-      "_routing-B-h4oALE.js",
-      "_components-bMFgbsTK.js",
-      "_Spinner-BU2sTrbk.js"
+      "_auth-DTPlqukd.js",
+      "_routing-HTn9vvAj.js",
+      "_components-BacPrORy.js",
+      "_Spinner-BHcTEjdV.js"
     ],
     "dynamicImports": [
+      "src/routes/callback.tsx?pick=default&pick=$css",
       "src/routes/courts.tsx?pick=default&pick=$css",
       "src/routes/customers/[id].tsx?pick=default&pick=$css",
       "src/routes/customers/index.tsx?pick=default&pick=$css",
@@ -232,7 +255,7 @@
       "src/routes/login.tsx?pick=default&pick=$css"
     ],
     "css": [
-      "assets/client-C0EKFYLB.css"
+      "assets/client-D72AVTzB.css"
     ]
   }
 }

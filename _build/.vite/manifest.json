@@ -1,0 +1,238 @@
+{
+  "_Badge-Bz6YGSkx.js": {
+    "file": "assets/Badge-Bz6YGSkx.js",
+    "name": "Badge",
+    "imports": [
+      "_auth-C-gLdpYB.js"
+    ]
+  },
+  "_Button-vFBhENxP.js": {
+    "file": "assets/Button-vFBhENxP.js",
+    "name": "Button",
+    "imports": [
+      "_auth-C-gLdpYB.js"
+    ]
+  },
+  "_Card-D3Wp1ead.js": {
+    "file": "assets/Card-D3Wp1ead.js",
+    "name": "Card",
+    "imports": [
+      "_auth-C-gLdpYB.js"
+    ]
+  },
+  "_CourtJudgePickers-Ubv-bGx3.js": {
+    "file": "assets/CourtJudgePickers-Ubv-bGx3.js",
+    "name": "CourtJudgePickers",
+    "imports": [
+      "_auth-C-gLdpYB.js",
+      "_PageHeader-CKjHrkVY.js",
+      "_Button-vFBhENxP.js"
+    ]
+  },
+  "_CustomerForm-FsvFm1w8.js": {
+    "file": "assets/CustomerForm-FsvFm1w8.js",
+    "name": "CustomerForm",
+    "imports": [
+      "_auth-C-gLdpYB.js",
+      "_Button-vFBhENxP.js",
+      "_Textarea-x8y_EA-x.js",
+      "_PageHeader-CKjHrkVY.js"
+    ]
+  },
+  "_EmptyState-CxbC4rM4.js": {
+    "file": "assets/EmptyState-CxbC4rM4.js",
+    "name": "EmptyState",
+    "imports": [
+      "_auth-C-gLdpYB.js"
+    ]
+  },
+  "_PageHeader-CKjHrkVY.js": {
+    "file": "assets/PageHeader-CKjHrkVY.js",
+    "name": "PageHeader",
+    "imports": [
+      "_auth-C-gLdpYB.js"
+    ]
+  },
+  "_Spinner-BU2sTrbk.js": {
+    "file": "assets/Spinner-BU2sTrbk.js",
+    "name": "Spinner",
+    "imports": [
+      "_auth-C-gLdpYB.js"
+    ]
+  },
+  "_Textarea-x8y_EA-x.js": {
+    "file": "assets/Textarea-x8y_EA-x.js",
+    "name": "Textarea",
+    "imports": [
+      "_auth-C-gLdpYB.js"
+    ]
+  },
+  "_auth-C-gLdpYB.js": {
+    "file": "assets/auth-C-gLdpYB.js",
+    "name": "auth"
+  },
+  "_components-bMFgbsTK.js": {
+    "file": "assets/components-bMFgbsTK.js",
+    "name": "components",
+    "imports": [
+      "_auth-C-gLdpYB.js",
+      "_routing-B-h4oALE.js"
+    ]
+  },
+  "_format-NFPj965s.js": {
+    "file": "assets/format-NFPj965s.js",
+    "name": "format"
+  },
+  "_routing-B-h4oALE.js": {
+    "file": "assets/routing-B-h4oALE.js",
+    "name": "routing",
+    "imports": [
+      "_auth-C-gLdpYB.js"
+    ]
+  },
+  "src/routes/courts.tsx?pick=default&pick=$css": {
+    "file": "assets/courts-BS4K5KmG.js",
+    "name": "courts",
+    "src": "src/routes/courts.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_auth-C-gLdpYB.js",
+      "_PageHeader-CKjHrkVY.js",
+      "_Button-vFBhENxP.js",
+      "_Card-D3Wp1ead.js",
+      "_Badge-Bz6YGSkx.js",
+      "_EmptyState-CxbC4rM4.js",
+      "_Textarea-x8y_EA-x.js",
+      "_Spinner-BU2sTrbk.js"
+    ]
+  },
+  "src/routes/customers/[id].tsx?pick=default&pick=$css": {
+    "file": "assets/_id_-CNARv1Au.js",
+    "name": "_id_",
+    "src": "src/routes/customers/[id].tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_auth-C-gLdpYB.js",
+      "_PageHeader-CKjHrkVY.js",
+      "_format-NFPj965s.js",
+      "_Button-vFBhENxP.js",
+      "_Badge-Bz6YGSkx.js",
+      "_Spinner-BU2sTrbk.js",
+      "_CustomerForm-FsvFm1w8.js",
+      "_Card-D3Wp1ead.js",
+      "_Textarea-x8y_EA-x.js",
+      "_EmptyState-CxbC4rM4.js",
+      "_CourtJudgePickers-Ubv-bGx3.js",
+      "_routing-B-h4oALE.js"
+    ]
+  },
+  "src/routes/customers/index.tsx?pick=default&pick=$css": {
+    "file": "assets/index-CpbCkbMS.js",
+    "name": "index",
+    "src": "src/routes/customers/index.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_auth-C-gLdpYB.js",
+      "_PageHeader-CKjHrkVY.js",
+      "_format-NFPj965s.js",
+      "_Card-D3Wp1ead.js",
+      "_Button-vFBhENxP.js",
+      "_Badge-Bz6YGSkx.js",
+      "_EmptyState-CxbC4rM4.js",
+      "_Spinner-BU2sTrbk.js",
+      "_components-bMFgbsTK.js",
+      "_routing-B-h4oALE.js"
+    ]
+  },
+  "src/routes/customers/new.tsx?pick=default&pick=$css": {
+    "file": "assets/new-CiUL91cE.js",
+    "name": "new",
+    "src": "src/routes/customers/new.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_PageHeader-CKjHrkVY.js",
+      "_Card-D3Wp1ead.js",
+      "_CustomerForm-FsvFm1w8.js",
+      "_routing-B-h4oALE.js",
+      "_auth-C-gLdpYB.js",
+      "_Button-vFBhENxP.js",
+      "_Textarea-x8y_EA-x.js"
+    ]
+  },
+  "src/routes/index.tsx?pick=default&pick=$css": {
+    "file": "assets/index-Actl6wWu.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_auth-C-gLdpYB.js",
+      "_PageHeader-CKjHrkVY.js",
+      "_format-NFPj965s.js",
+      "_Card-D3Wp1ead.js",
+      "_Badge-Bz6YGSkx.js",
+      "_Spinner-BU2sTrbk.js",
+      "_components-bMFgbsTK.js",
+      "_routing-B-h4oALE.js"
+    ]
+  },
+  "src/routes/judges.tsx?pick=default&pick=$css": {
+    "file": "assets/judges-BcjCFmOf.js",
+    "name": "judges",
+    "src": "src/routes/judges.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_auth-C-gLdpYB.js",
+      "_PageHeader-CKjHrkVY.js",
+      "_CourtJudgePickers-Ubv-bGx3.js",
+      "_Card-D3Wp1ead.js",
+      "_Badge-Bz6YGSkx.js",
+      "_Button-vFBhENxP.js",
+      "_EmptyState-CxbC4rM4.js",
+      "_Textarea-x8y_EA-x.js",
+      "_Spinner-BU2sTrbk.js"
+    ]
+  },
+  "src/routes/login.tsx?pick=default&pick=$css": {
+    "file": "assets/login-Dm_qKald.js",
+    "name": "login",
+    "src": "src/routes/login.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_auth-C-gLdpYB.js",
+      "_Card-D3Wp1ead.js",
+      "_Spinner-BU2sTrbk.js",
+      "_routing-B-h4oALE.js"
+    ]
+  },
+  "virtual:$vinxi/handler/client": {
+    "file": "assets/client-DcTsYwja.js",
+    "name": "client",
+    "src": "virtual:$vinxi/handler/client",
+    "isEntry": true,
+    "imports": [
+      "_auth-C-gLdpYB.js",
+      "_routing-B-h4oALE.js",
+      "_components-bMFgbsTK.js",
+      "_Spinner-BU2sTrbk.js"
+    ],
+    "dynamicImports": [
+      "src/routes/courts.tsx?pick=default&pick=$css",
+      "src/routes/customers/[id].tsx?pick=default&pick=$css",
+      "src/routes/customers/index.tsx?pick=default&pick=$css",
+      "src/routes/customers/new.tsx?pick=default&pick=$css",
+      "src/routes/index.tsx?pick=default&pick=$css",
+      "src/routes/judges.tsx?pick=default&pick=$css",
+      "src/routes/login.tsx?pick=default&pick=$css"
+    ],
+    "css": [
+      "assets/client-C0EKFYLB.css"
+    ]
+  }
+}
